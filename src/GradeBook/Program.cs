@@ -11,7 +11,7 @@ namespace GradeBook
             {
                 Console.WriteLine($"Hello, {args[0]}!");
                 Console.WriteLine($"Hello, {args[1]}!");
-                Console.WriteLine($"Hello, {args[2]}!")
+                Console.WriteLine($"Hello, {args[2]}!");
             }
             else
             {
