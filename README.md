@@ -1,3 +1,3 @@
 # Gradebook Application
 
-This is my first C# app.
+A sample gradebook application written in C#.
